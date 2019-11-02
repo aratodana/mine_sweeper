@@ -1,0 +1,7 @@
+div#gameWindow
+{
+	background-color: blue;
+	float: left;
+	margin-left: auto;
+	margin-right: auto;
+}
